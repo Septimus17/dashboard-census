@@ -1,0 +1,12 @@
+name: DashboardCensUS
+title: DashboardCensUS
+username:
+account: a-falzone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 596369
+bundleId: 1755344
+url: https://a-falzone.shinyapps.io/DashboardCensUS/
+when: 1544530611.04115
+asMultiple: FALSE
+asStatic: FALSE

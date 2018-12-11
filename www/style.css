@@ -1,0 +1,41 @@
+.main-header {
+  position: fixed;
+  width:100%;
+}
+
+.content {
+  margin-top: 50px;
+}
+
+.main-sidebar {
+  position: fixed;
+}
+
+ul#foot li {
+  display:inline;
+}
+
+img#logo {
+  height:auto;
+  width:100%;
+}
+
+ul#foot img {
+ height:auto;
+ width:3%;
+ overflow:auto;
+}
+
+footer {
+ position: relative;
+ bottom: 0;
+ width: 100%;
+ color: black;
+ padding-bot:10px;
+ height:60px;
+ background-color: #eff0f1;
+}
+
+body {
+ text-align:justify
+}
